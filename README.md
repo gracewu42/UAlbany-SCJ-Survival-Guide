@@ -45,7 +45,7 @@
 
 ## By bus
 
-- Taking a bus is free use your UAlbany ID card
+- Taking a bus is free using your UAlbany ID card
 - Check the school bus schedule [here](https://www.albany.edu/pmts/bus_schedules.php).
 
 ## By car
