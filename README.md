@@ -52,6 +52,7 @@
 
 - Parking on campus is extremely cheap. This year with a discount the price is $50 (it's usually $60+). It can easy go up to $500 in other universities I know. 
 - You can purchase your parking permit online via the University [Parking & Mass Transit Services](https://epay.albany.edu/C21455_ustores/web/store_cat.jsp?STOREID=1&CATID=3).
+- If you unfortunately get a parking ticket ($40-$50 fine), going to the city hall and make your argument may reduce the fine. 
 
 # Paychecks and budgeting
 
@@ -70,7 +71,7 @@ Most PhD students work as TA or RA. Graduate TA/RA stipends go through universit
 
 ## Student fees
 
-- SCJ covers PhD students' tuition. But we still need to pay several hundred dollars of student fees. You will receive a bill from epay at the beginning of each semester. The payment due date is usually September 15 in Fall semester and January 15 in Spring semester. 
+- SCJ covers PhD students' tuition. But we still need to pay several hundred dollars of student fees (around $600+ for PhD students; $800+ for PhD international students; $100+ for PhD candidates; $300+ for international students who are PhD candidates). You will receive a bill from epay at the beginning of each semester. The payment due date is usually September 15 in Fall semester and January 15 in Spring semester. 
 - Almost all student fees are mandatory, but the $30 Student Alumni Partnership fee is optional. You need to submit a [form](https://www.alumni.albany.edu/s/1642/bp19/interior.aspx?sid=1642&gid=2&pgid=558) to opt out if you don't want to pay this fee. 
 
 ## Taxes
@@ -150,6 +151,7 @@ You can always purchase the books you need on Amazon or in the bookstores. Below
 - If Ebooks are acceptable to you, always check on the library website whether the book you need is available online or not before you order it. It saves a lot of money.
 - Ask former students in your class whether they can loan you the book you need. 
 - [Dove & Hudson](https://goo.gl/maps/QvrJy6oq2defh2HB8) in downtown sells used books in a reasonable price. 
+- [Thriftbooks](https://www.thriftbooks.com) is a good online store to get cheap used books (recommended by Colleen). 
 
 ---
 
@@ -174,11 +176,17 @@ The survey tool provided by the University is Qualtrics. You can launch Qualtric
 
 - SCJ computer lab (Draper 310, which is a great workplace!)
   - For Fall 2020, see Diana's email about the reservation of the computer lab. 
+- SCJ writin circle
+  - This is a great opportunity to receive feedback, help your peers improve their work, and see some friendly faces! During the meetings, participants will share writing samples that are 1-3 pages double-spaced. These pieces can be any kind of work you want feedback on, such as a couple of pages from a class paper, concept paper, prospectus, dissertation, journal article, cover letter, grant application, or syllabus. If the writing sample is not in double-spaced format (e.g., syllabus or cover letter), please keep the length roughly equivalent. The meetings should last no more than an hour and a half—this will depend on the group size. About 20 minutes will be spent on each writing sample -- 10 minutes to read the sample and 10 minutes to provide feedback on the sample.
+- SCJ What's Going on
+  - This is a student-only presentation opportunity. If you have an idea you want to workshop to people this is a good time for it. Or you can do a conference presentation. Idea pitches are usually about 10-15 minutes and presentations can be as long as 30 minutes with feedback.
+
 - UAlbany Counseling and Psychological Services. 
   - Dutch Quad, Uptown Campus
   - (518) 442 - 5800
   - consultation@albany.edu
 - Get daily update of published Crim & CJ papers: [CrimPapers subcription](http://lesscrime.info/crimpapers/).
+- [SCJ News](https://www.albany.edu/scj/about-scj/scj-news) reports recent awards, defenses, publications, and other news in our school.
 
 # Life in Albany
 
@@ -202,7 +210,7 @@ Although the nearest IKEA is 2 hours away in NJ and Costco is 1.5 hours away in 
 - Places that used to host SCJ events
   - Albany Pump Station
   - Navona
-  - The Washington Tavern
+  - The Washington Tavern (according to recent reviews, it's not as good as it was before)
 - Chinese restaurants
   - Hong Kong Bakery & Bistro (also offers Dim Sum)
   - Northeast Chinese 
@@ -210,12 +218,16 @@ Although the nearest IKEA is 2 hours away in NJ and Costco is 1.5 hours away in 
 - Japanese restaurants
   - Yoshi Sushi (in Latham)
   - Kazan BBQ, Ramen, and Bar
+  - Mr. Fuji (near Stuyvesant Plaza, recommended by Rebecca)
 - Vegan options
   - Berben & Wolff's (vegan burgers)
   - Cider Belly (donuts)
 - Other
   - The City Beer Hall
   - The Hollow
+  - Van's (Vietnamese restaurant, recommended by Rebecca)
+  - Cheesecake Machismo (recommended by Colleen)
+  - Berry & Berry (Bubble tea, recommended by Rebecca)
 
 ## Other
 
