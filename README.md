@@ -228,6 +228,7 @@ Although the nearest IKEA is 2 hours away in NJ and Costco is 1.5 hours away in 
   - Van's (Vietnamese restaurant, recommended by Rebecca)
   - Cheesecake Machismo (recommended by Colleen)
   - Berry & Berry (Bubble tea, recommended by Rebecca)
+  - Druthers (large outdoor space)
 
 ## Other
 
