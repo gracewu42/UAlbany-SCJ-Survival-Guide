@@ -52,7 +52,7 @@
 
 - Parking on campus is extremely cheap. This year with a discount the price is $50 (it's usually $60+). It can easy go up to $500 in other universities I know. 
 - You can purchase your parking permit online via the University [Parking & Mass Transit Services](https://epay.albany.edu/C21455_ustores/web/store_cat.jsp?STOREID=1&CATID=3).
-- If you unfortunately get a parking ticket ($40-$50 fine), going to the city hall and make your argument may reduce the fine. 
+- If you unfortunately get a parking ticket ($40-$50 fine), going to the city hall and making your argument may reduce the fine. 
 
 # Paychecks and budgeting
 
