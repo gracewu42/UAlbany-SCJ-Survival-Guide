@@ -199,7 +199,7 @@ Although the nearest IKEA is 2 hours away in NJ and Costco is 1.5 hours away in 
 
 ## Food & Drink
 
-- Popular grocery stores include Trader Joe's, Wholefoods, Market 32, and Hannaford. There are two large Asian grocery stores in town: Asian Super Market and Asian Food Market. There is also a Korean Market (Jang Tuh Asian Grocery) in Latham.
+- Popular grocery stores include Trader Joe's, Wholefoods, Market 32, and Hannaford. There are two large Asian grocery stores in town: Asian Super Market and Asian Food Market. A smaller Korean Market (Kim's Asian Market) in Central offers good Korean snacks and drinks(recommender by Jeeyoung). There is also a Korean Market (Jang Tuh Asian Grocery) in Latham. 
 - There are some good restaurants near the downtown campus: 
   - Sovrana (pizza place, also offers good cookies)
   - El Patron (Mexican food)
