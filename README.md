@@ -161,6 +161,15 @@ If you want to get rid of your books, you can:
 - Sell them or give them away to other students. 
 - Donate them to the SCJ Lending Library in the second room of the computer lab (Draper 310).
 
+---
+You can also borrow ebooks or audiobooks from other libraries. 
+
+- For example, I borrow ebooks from New York Public Library (NYPL). Its new book collections are better than our school library. You can borrow most best-sellers of the year in NYPL. I've also tried searching for more academic books like Steven Pink's books. NYPL has a lot of them. It's awesome.
+- To borrow ebooks/audio books, you first need a library card. NY State residents can apply for an NYPL Library Card following the guidance [here](https://www.nypl.org/books-music-movies/ebookcentral/simplye/getting-started/ios). 
+- After you get a library card, you can borrow the books and then read. You can read/listen via NYPL's app called SimplyE. To be honest, it's not really user friendly compared to Kindle or Audible. But it can absolutely satisfy a reader's basic needs. You can also read/listen via [OverDrive](https://www.overdrive.com). One good thing about OverDrive is that it allows you to [borrow ebooks in Kindle format](https://help.overdrive.com/en-us/0431.html#thundercontent) and read it using Kindle if the Kindle edition is available. You can read/listen using OverDrive's apps, too. 
+
+
+
 ## ITS
 
 ITS provides:
