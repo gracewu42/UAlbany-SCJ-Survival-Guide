@@ -243,6 +243,8 @@ Although the nearest IKEA is 2 hours away in NJ and Costco is 1.5 hours away in 
 
 - If you plan to travel from Albany to New York City, apart from driving, Amtrak is also a good option. The Amtrak train station is in Rensselaer (about 10 minutes drive from the downtown campus). It takes about 2.5 hours to New York by train. Usually there will be discount for travels in New York State. See the Amtrak [Deals page](https://www.amtrak.com/promotions/deals.html) for details. With the discount the price is usually $45 for a single trip (it's cheaper during the pandemic). The advantage of taking a train is that you don't have to find a (freakingly expensive) parking lot in New York City and the view along the Hudson River is gorgeous. 
 - You can watch free musicals and plays during summer in Washington Park. Visit the [Playhouse Stage Company](http://playhousestage.org/past-seasons) for more information. 
+- If you are in the AT&T Unlimited Plan, you have free access to [HBO Max](https://www.att.com/support/article/wireless/KM1261921/).
+- If you are an Amazon Prime member, you have free access to Prime Video.
 
 
 
