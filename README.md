@@ -196,6 +196,13 @@ The survey tool provided by the University is Qualtrics. You can launch Qualtric
   - consultation@albany.edu
 - Get daily update of published Crim & CJ papers: [CrimPapers subcription](http://lesscrime.info/crimpapers/).
 - [SCJ News](https://www.albany.edu/scj/about-scj/scj-news) reports recent awards, defenses, publications, and other news in our school.
+- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. m
+  - 
+- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. The most common functions I use is to import and export:
+  - h
+- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. The most common functions I use is to import and export:i
+- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. The most common functions I use is to import and export:
+
 
 # Life in Albany
 
