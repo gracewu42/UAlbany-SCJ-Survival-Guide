@@ -196,12 +196,10 @@ The survey tool provided by the University is Qualtrics. You can launch Qualtric
   - consultation@albany.edu
 - Get daily update of published Crim & CJ papers: [CrimPapers subcription](http://lesscrime.info/crimpapers/).
 - [SCJ News](https://www.albany.edu/scj/about-scj/scj-news) reports recent awards, defenses, publications, and other news in our school.
-- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. m
-  - 
-- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. The most common functions I use is to import and export:
-  - h
-- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. The most common functions I use is to import and export:i
-- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. The most common functions I use is to import and export:
+- A small but very useful tool called [Readwise](https://readwise.io/i/sishi). It can be used to import highlights from ebooks and pdf files and even tweets and export them to your notes-taking tools like Notion or Evernote in a nice and clean way. The only disadvantage is that it is not free and costs $4/month for students. But you get free trial for two months and can extend it by referring it to friends. The most common functions I use is to import and export:
+  - highlights from pdf files and Kindle ebooks. See a template [here](https://www.notion.so/Readwise-d18963c029bf414ca8a6b3b110e73e87)
+  - save tweets/threads for later reading. See a template [here](https://www.notion.so/eb52a18d1e8d456987ef41d998b2b35d?v=ee6045377b544ce38854aef458927bce)
+
 
 
 # Life in Albany
