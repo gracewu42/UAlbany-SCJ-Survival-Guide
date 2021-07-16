@@ -185,7 +185,7 @@ The survey tool provided by the University is Qualtrics. You can launch Qualtric
 
 - SCJ computer lab (Draper 310, which is a great workplace!)
   - For Fall 2020, see Diana's email about the reservation of the computer lab. 
-- SCJ writin circle
+- SCJ writing circle
   - This is a great opportunity to receive feedback, help your peers improve their work, and see some friendly faces! During the meetings, participants will share writing samples that are 1-3 pages double-spaced. These pieces can be any kind of work you want feedback on, such as a couple of pages from a class paper, concept paper, prospectus, dissertation, journal article, cover letter, grant application, or syllabus. If the writing sample is not in double-spaced format (e.g., syllabus or cover letter), please keep the length roughly equivalent. The meetings should last no more than an hour and a half—this will depend on the group size. About 20 minutes will be spent on each writing sample -- 10 minutes to read the sample and 10 minutes to provide feedback on the sample.
 - SCJ What's Going on
   - This is a student-only presentation opportunity. If you have an idea you want to workshop to people this is a good time for it. Or you can do a conference presentation. Idea pitches are usually about 10-15 minutes and presentations can be as long as 30 minutes with feedback.
